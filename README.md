@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Stephenkikuvi
-- 👀 I’m Interested in Web development/Cybersecurity 
+👋 Hi, I’m @Stephenkikuvi
+ I’m Interested in Web development/Cybersecurity 
 - 🌱 I’m currently learning golang 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate a passionate web developer 
+- 📫 
+- ⚡ YouTube University >> All Bootcamps 
 
 <!---
 Stephenkikuvi/Stephenkikuvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
