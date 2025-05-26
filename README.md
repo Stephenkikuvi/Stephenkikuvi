@@ -1,7 +1,7 @@
 👋 Hi, I’m @Stephenkikuvi
- I’m Interested in Web development/Cybersecurity 
-- 🌱 I’m currently learning golang 
-- 💞️ I’m looking to collaborate a passionate web developer 
+ My fields are  Netorking and Cybersecurity 
+- 🌱 I’m also learning golang 
+- 💞️ I’m looking to collaborate a passionate Network engineers
 - 📫 
 - ⚡ YouTube University >> All Bootcamps 
 
